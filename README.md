@@ -31,6 +31,37 @@
 
 Результат виконання опублікувати у вигляді Pull Request із порядковим номером у списку (запитуйтесь у старости).
 
+## Release Notes
+
+### Version 1.1.0 (2024-03-24)
+
+#### Features
+- **gpt:** Add command to activate ChatGPT (#1)
+- **deps:** Add openai dependency
+
+#### Fixes
+- Fix OpenAI imports (#5)
+- Provide Node.js version in package.json (#4)
+- Update package-lock.json to resolve server crash (#3)
+- Update package-lock.json (#2)
+
+#### Documentation
+- Update project requirements in README.md (#6)
+- Add todos to server-bot (#8)
+- Update README.md (#7)
+- Add readme description (#9)
+
+#### Miscellaneous
+- Initial project setup (#10)
+
+### Version 1.0.0 (2024-02-19)
+
+#### Features
+- Add port mappings (#13)
+- Add initial project changes (#12)
+- Add readme description (#11)
+
+
 ## Spotify Framework
 
 Спробуйте визначитись згідно [Spotify моделі](https://miro.com/welcomeonboard/Sjl3NzBFc0dPNkxaeHZoSHo2Q1lUdmtuZDlWRnozSEduSDZHOENRY3Rta3EwWmJaVU0zTnJNVXhRN3Zxd09YMnwzNDU4NzY0NTc4MjE3OTcxNzk2fDI=?share_link_id=470780026239) свою роль у проєкті, будьте максимально креативними, задач спільна на всіх!
